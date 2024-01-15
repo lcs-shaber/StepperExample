@@ -14,6 +14,7 @@ struct ContentView: View {
     
     // MARK: Computed properties
     
+    
     var squared: Int {
         return base * base
     }
